@@ -1,5 +1,7 @@
 #JOHN KARL TORIO
 #SAMPLE SCORE AVERAGE CALCULATOR
+# Hi! This is my second upload here in GitHub, I've been practicing to code in python step by step
+# I used visual studio for this
 
 score1 = int(input("Enter the first score: "))
 score2 = int(input("Enter the second score: "))
